@@ -1,4 +1,4 @@
-# CSE 151A HW2
+# DSE 220 HW2
 
 Homework 2
 
